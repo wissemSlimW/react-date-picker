@@ -1,0 +1,1 @@
+export { LabelCell } from "./LabelCell";
